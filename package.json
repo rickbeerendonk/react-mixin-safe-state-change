@@ -1,13 +1,12 @@
 {
   "name": "react-mixin-safe-state-change",
   "description": "React mixin which sets or replaces state only when it is safe to do so.",
-  "version": "0.1.0",
+  "version": “0.1.1”,
   "author": "Rick Beerendonk <rick@beerendonk.com>",
   "bugs": {
     "url": "https://github.com/rickbeerendonk/react-mixin-safe-state-change/issues"
   },
   "dependencies": {
-    "react": ">=0.12.0"
   },
   "homepage": "https://github.com/rickbeerendonk/react-mixin-safe-state-change",
   "keywords": [
