@@ -6,8 +6,6 @@
   "bugs": {
     "url": "https://github.com/rickbeerendonk/react-mixin-safe-state-change/issues"
   },
-  "dependencies": {
-  },
   "homepage": "https://github.com/rickbeerendonk/react-mixin-safe-state-change",
   "keywords": [
     "react",
