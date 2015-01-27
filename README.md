@@ -4,6 +4,8 @@ react-mixin-safe-state-change
 [![npm version](https://img.shields.io/npm/v/react-mixin-safe-state-change.svg)](http://www.npmjs.com/package/react-mixin-safe-state-change)
 [![npm downloads](https://img.shields.io/npm/dm/react-mixin-safe-state-change.svg)](http://www.npmjs.com/package/react-mixin-safe-state-change)
 
+[![NPM](https://nodei.co/npm/react-mixin-safe-state-change.png)](https://nodei.co/npm/react-mixin-safe-state-change/)
+
 React mixin which sets or replaces state only when it is safe to do so.
 
 ## Motivation
